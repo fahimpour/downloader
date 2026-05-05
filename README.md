@@ -77,8 +77,12 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1. [mhrv-rs-windows-amd64](https://github.com/fahimpour/downloader/tree/main/downloads/mhrv-rs-windows-amd64)
+1. [deeproxy-0.10.17.tar](https://github.com/fahimpour/downloader/tree/main/downloads/deeproxy-0.10.17.tar)
+
+2. [mhrv-rs-windows-amd64](https://github.com/fahimpour/downloader/tree/main/downloads/mhrv-rs-windows-amd64)
 
 ---
