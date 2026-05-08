@@ -83,14 +83,18 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [Nova.App.V1](https://github.com/fahimpour/downloader/tree/main/downloads/Nova.App.V1)
 
 2. [deeproxy-0.10.17.tar](https://github.com/fahimpour/downloader/tree/main/downloads/deeproxy-0.10.17.tar)
 
-3. [mhrv-rs-android-x86_64-v1.9.15](https://github.com/fahimpour/downloader/tree/main/downloads/mhrv-rs-android-x86_64-v1.9.15)
+3. [mhrv-rs-android-arm64-v8a-v1.9.18](https://github.com/fahimpour/downloader/tree/main/downloads/mhrv-rs-android-arm64-v8a-v1.9.18)
 
-4. [mhrv-rs-windows-amd64](https://github.com/fahimpour/downloader/tree/main/downloads/mhrv-rs-windows-amd64)
+4. [mhrv-rs-android-x86_64-v1.9.15](https://github.com/fahimpour/downloader/tree/main/downloads/mhrv-rs-android-x86_64-v1.9.15)
+
+5. [mhrv-rs-windows-amd64](https://github.com/fahimpour/downloader/tree/main/downloads/mhrv-rs-windows-amd64)
 
 ---
