@@ -85,6 +85,8 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [Nova.App.V1](https://github.com/fahimpour/downloader/tree/main/downloads/Nova.App.V1)
@@ -96,5 +98,7 @@ a
 4. [mhrv-rs-android-x86_64-v1.9.15](https://github.com/fahimpour/downloader/tree/main/downloads/mhrv-rs-android-x86_64-v1.9.15)
 
 5. [mhrv-rs-windows-amd64](https://github.com/fahimpour/downloader/tree/main/downloads/mhrv-rs-windows-amd64)
+
+6. [mhrv-rs-windows-amd64_sky](https://github.com/fahimpour/downloader/tree/main/downloads/mhrv-rs-windows-amd64_sky)
 
 ---
