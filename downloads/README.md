@@ -7,6 +7,7 @@
 - [mhrv-rs-android-x86_64-v1.9.15](./mhrv-rs-android-x86_64-v1.9.15)
 - [mhrv-rs-windows-amd64](./mhrv-rs-windows-amd64)
 - [mhrv-rs-windows-amd64_sky](./mhrv-rs-windows-amd64_sky)
+- [mhrv-rs-windows-amd64_star](./mhrv-rs-windows-amd64_star)
 - [v2rayN-windows-64-desktop](./v2rayN-windows-64-desktop)
 
 ---

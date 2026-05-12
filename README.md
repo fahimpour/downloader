@@ -91,6 +91,8 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [Nova.App.V1](https://github.com/fahimpour/downloader/tree/main/downloads/Nova.App.V1)
@@ -107,6 +109,8 @@ a
 
 7. [mhrv-rs-windows-amd64_sky](https://github.com/fahimpour/downloader/tree/main/downloads/mhrv-rs-windows-amd64_sky)
 
-8. [v2rayN-windows-64-desktop](https://github.com/fahimpour/downloader/tree/main/downloads/v2rayN-windows-64-desktop)
+8. [mhrv-rs-windows-amd64_star](https://github.com/fahimpour/downloader/tree/main/downloads/mhrv-rs-windows-amd64_star)
+
+9. [v2rayN-windows-64-desktop](https://github.com/fahimpour/downloader/tree/main/downloads/v2rayN-windows-64-desktop)
 
 ---
