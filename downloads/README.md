@@ -8,6 +8,7 @@
 - [mhrv-rs-windows-amd64](./mhrv-rs-windows-amd64)
 - [mhrv-rs-windows-amd64_sky](./mhrv-rs-windows-amd64_sky)
 - [mhrv-rs-windows-amd64_star](./mhrv-rs-windows-amd64_star)
+- [tele-mirror-win-x64](./tele-mirror-win-x64)
 - [v2rayN-windows-64-desktop](./v2rayN-windows-64-desktop)
 
 ---
