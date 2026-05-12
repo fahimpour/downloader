@@ -95,26 +95,30 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [Nova.App.V1](https://github.com/fahimpour/downloader/tree/main/downloads/Nova.App.V1)
 
-2. [deeproxy-0.10.17.tar](https://github.com/fahimpour/downloader/tree/main/downloads/deeproxy-0.10.17.tar)
+2. [WhiteDNS-1.2.0-arm64-v8a](https://github.com/fahimpour/downloader/tree/main/downloads/WhiteDNS-1.2.0-arm64-v8a)
 
-3. [mhrv-rs-android-arm64-v8a-v1.9.18](https://github.com/fahimpour/downloader/tree/main/downloads/mhrv-rs-android-arm64-v8a-v1.9.18)
+3. [deeproxy-0.10.17.tar](https://github.com/fahimpour/downloader/tree/main/downloads/deeproxy-0.10.17.tar)
 
-4. [mhrv-rs-android-arm64-v8a-v1.9.21](https://github.com/fahimpour/downloader/tree/main/downloads/mhrv-rs-android-arm64-v8a-v1.9.21)
+4. [mhrv-rs-android-arm64-v8a-v1.9.18](https://github.com/fahimpour/downloader/tree/main/downloads/mhrv-rs-android-arm64-v8a-v1.9.18)
 
-5. [mhrv-rs-android-x86_64-v1.9.15](https://github.com/fahimpour/downloader/tree/main/downloads/mhrv-rs-android-x86_64-v1.9.15)
+5. [mhrv-rs-android-arm64-v8a-v1.9.21](https://github.com/fahimpour/downloader/tree/main/downloads/mhrv-rs-android-arm64-v8a-v1.9.21)
 
-6. [mhrv-rs-windows-amd64](https://github.com/fahimpour/downloader/tree/main/downloads/mhrv-rs-windows-amd64)
+6. [mhrv-rs-android-x86_64-v1.9.15](https://github.com/fahimpour/downloader/tree/main/downloads/mhrv-rs-android-x86_64-v1.9.15)
 
-7. [mhrv-rs-windows-amd64_sky](https://github.com/fahimpour/downloader/tree/main/downloads/mhrv-rs-windows-amd64_sky)
+7. [mhrv-rs-windows-amd64](https://github.com/fahimpour/downloader/tree/main/downloads/mhrv-rs-windows-amd64)
 
-8. [mhrv-rs-windows-amd64_star](https://github.com/fahimpour/downloader/tree/main/downloads/mhrv-rs-windows-amd64_star)
+8. [mhrv-rs-windows-amd64_sky](https://github.com/fahimpour/downloader/tree/main/downloads/mhrv-rs-windows-amd64_sky)
 
-9. [tele-mirror-win-x64](https://github.com/fahimpour/downloader/tree/main/downloads/tele-mirror-win-x64)
+9. [mhrv-rs-windows-amd64_star](https://github.com/fahimpour/downloader/tree/main/downloads/mhrv-rs-windows-amd64_star)
 
-10. [v2rayN-windows-64-desktop](https://github.com/fahimpour/downloader/tree/main/downloads/v2rayN-windows-64-desktop)
+10. [tele-mirror-win-x64](https://github.com/fahimpour/downloader/tree/main/downloads/tele-mirror-win-x64)
+
+11. [v2rayN-windows-64-desktop](https://github.com/fahimpour/downloader/tree/main/downloads/v2rayN-windows-64-desktop)
 
 ---
