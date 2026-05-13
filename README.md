@@ -97,6 +97,8 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [Nova.App.V1](https://github.com/fahimpour/downloader/tree/main/downloads/Nova.App.V1)
@@ -120,5 +122,7 @@ a
 10. [tele-mirror-win-x64](https://github.com/fahimpour/downloader/tree/main/downloads/tele-mirror-win-x64)
 
 11. [v2rayN-windows-64-desktop](https://github.com/fahimpour/downloader/tree/main/downloads/v2rayN-windows-64-desktop)
+
+12. [zyrln-1.5.1-pre6-windows-amd64](https://github.com/fahimpour/downloader/tree/main/downloads/zyrln-1.5.1-pre6-windows-amd64)
 
 ---
