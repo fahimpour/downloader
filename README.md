@@ -99,6 +99,8 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [Nova.App.V1](https://github.com/fahimpour/downloader/tree/main/downloads/Nova.App.V1)
@@ -123,6 +125,8 @@ a
 
 11. [v2rayN-windows-64-desktop](https://github.com/fahimpour/downloader/tree/main/downloads/v2rayN-windows-64-desktop)
 
-12. [zyrln-1.5.1-pre6-windows-amd64](https://github.com/fahimpour/downloader/tree/main/downloads/zyrln-1.5.1-pre6-windows-amd64)
+12. [x-ui-windows-amd64](https://github.com/fahimpour/downloader/tree/main/downloads/x-ui-windows-amd64)
+
+13. [zyrln-1.5.1-pre6-windows-amd64](https://github.com/fahimpour/downloader/tree/main/downloads/zyrln-1.5.1-pre6-windows-amd64)
 
 ---

@@ -11,6 +11,7 @@
 - [mhrv-rs-windows-amd64_star](./mhrv-rs-windows-amd64_star)
 - [tele-mirror-win-x64](./tele-mirror-win-x64)
 - [v2rayN-windows-64-desktop](./v2rayN-windows-64-desktop)
+- [x-ui-windows-amd64](./x-ui-windows-amd64)
 - [zyrln-1.5.1-pre6-windows-amd64](./zyrln-1.5.1-pre6-windows-amd64)
 
 ---
