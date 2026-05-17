@@ -2,6 +2,7 @@
 
 - [Nova.App.V1](./Nova.App.V1)
 - [WhiteDNS-1.2.0-arm64-v8a](./WhiteDNS-1.2.0-arm64-v8a)
+- [ZDyfiHR1Luo](./ZDyfiHR1Luo)
 - [deeproxy-0.10.17.tar](./deeproxy-0.10.17.tar)
 - [mhrv-rs-android-arm64-v8a-v1.9.18](./mhrv-rs-android-arm64-v8a-v1.9.18)
 - [mhrv-rs-android-arm64-v8a-v1.9.21](./mhrv-rs-android-arm64-v8a-v1.9.21)
