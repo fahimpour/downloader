@@ -109,6 +109,8 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [Nova.App.V1](https://github.com/fahimpour/downloader/tree/main/downloads/Nova.App.V1)
@@ -139,10 +141,12 @@ a
 
 14. [v_ZDyfiHR1Luo.mp4_cloud](https://github.com/fahimpour/downloader/tree/main/downloads/v_ZDyfiHR1Luo.mp4_cloud)
 
-15. [v_ZDyfiHR1Luo.mp4_lambda](https://github.com/fahimpour/downloader/tree/main/downloads/v_ZDyfiHR1Luo.mp4_lambda)
+15. [v_ZDyfiHR1Luo.mp4_delta](https://github.com/fahimpour/downloader/tree/main/downloads/v_ZDyfiHR1Luo.mp4_delta)
 
-16. [x-ui-windows-amd64](https://github.com/fahimpour/downloader/tree/main/downloads/x-ui-windows-amd64)
+16. [v_ZDyfiHR1Luo.mp4_lambda](https://github.com/fahimpour/downloader/tree/main/downloads/v_ZDyfiHR1Luo.mp4_lambda)
 
-17. [zyrln-1.5.1-pre6-windows-amd64](https://github.com/fahimpour/downloader/tree/main/downloads/zyrln-1.5.1-pre6-windows-amd64)
+17. [x-ui-windows-amd64](https://github.com/fahimpour/downloader/tree/main/downloads/x-ui-windows-amd64)
+
+18. [zyrln-1.5.1-pre6-windows-amd64](https://github.com/fahimpour/downloader/tree/main/downloads/zyrln-1.5.1-pre6-windows-amd64)
 
 ---
